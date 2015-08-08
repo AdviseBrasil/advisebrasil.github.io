@@ -1,0 +1,12 @@
+# Site settings
+title: Advise Brasil
+email: devs@advisebrasil.com.br
+description: > # this means to ignore newlines until "baseurl:"
+  Blog com post de erros que o Cristiano Fernandes criou com todo o prazer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://advisebrasil.github.io" # the base hostname & protocol for your site
+twitter_username: advisebrasil
+github_username:  advisebrasil
+
+# Build settings
+markdown: kramdown
